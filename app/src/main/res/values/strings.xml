@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_name">City Name</string>
+    <string name="search_caps">SEARCH</string>
+    <string name="reset_caps">RESET</string>
+    <string name="weather_icon">weather_icon</string>
+    <string name="ellipses">...</string>
+</resources>
